@@ -1,1 +1,1 @@
-i edited this readme file manually
+I edited this readme file manually
