@@ -1,1 +1,1 @@
-My first readme
+i edited this readme file manually
